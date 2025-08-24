@@ -54,4 +54,5 @@
 [20217145 발표자료 .pdf](https://github.com/user-attachments/files/21958308/20217145.pdf)
 
 ## 🎬 시연 영상
--
+-![starball gif](https://github.com/user-attachments/assets/7c446f17-09da-4ae3-b2dc-39aeba8947d3)
+
